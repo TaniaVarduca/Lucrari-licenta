@@ -1,0 +1,7 @@
+1,Romania Mare,licenta,Popescu Ion
+2,Internetul,dizertatie,Ionescu Mircea
+3,Calculatoare noi,licenta,Popescu Ion
+4,Sisteme de calcul,licenta,Ionescu Mircea
+5,Mate,dizertatie,Popescu Ion
+6,ABCD,licenta,Dragomir Andrei
+7,Jocuri educative,licenta,Dinescu Matei

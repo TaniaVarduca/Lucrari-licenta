@@ -1,0 +1,8 @@
+1,Ionescu,Vasile,Romania Mare,0
+2,Padureanu,Andrei,Internetul,1
+3,Costin,Laura,,0
+4,Cimpean,Ionel,Calculatoare noi,1
+5,Popoescu,Lucian,Sisteme de calcul,1
+6,Ardelean,Mircea,,0
+7,Teodorescu,Paul,Mate,0
+8,Paunescu,Matei,Jocuri educative,1
